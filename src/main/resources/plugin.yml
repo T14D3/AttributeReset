@@ -1,0 +1,4 @@
+name: AttributeReset
+version: 1.0
+main: de.t14d3.attributereset.AttributeReset
+api-version: 1.21
